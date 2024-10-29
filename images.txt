@@ -1,1 +1,1 @@
-postgres:14.13
+redis:7.4.1
