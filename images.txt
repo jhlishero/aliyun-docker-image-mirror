@@ -1,1 +1,1 @@
-idoop/zentao:18.3
+openjdk:11.0.11-jre-slim
