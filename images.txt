@@ -1,1 +1,1 @@
-openjdk:11.0.11-jre-slim
+centos:7.9.2009
