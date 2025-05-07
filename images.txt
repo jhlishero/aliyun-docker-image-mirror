@@ -1,1 +1,2 @@
 redis/redis-stack-server:latest
+eclipse-temurin:21.0.7_6-jdk-alpine
