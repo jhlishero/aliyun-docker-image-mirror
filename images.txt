@@ -1,2 +1,3 @@
-redis/redis-stack-server:latest
-eclipse-temurin:21.0.7_6-jdk-alpine
+library/mysql:8.4.7
+azul/zulu-openjdk:8u472
+azul/zulu-openjdk:21.0.9
