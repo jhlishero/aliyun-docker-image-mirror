@@ -1,1 +1,4 @@
-azul/zulu-openjdk:11.0.29
+library/redis:8.2.3
+library/rabbitmq:4.1.6
+library/eclipse-mosquitto:2.0.22
+library/eclipse-mosquitto:2.0.22-openssl
