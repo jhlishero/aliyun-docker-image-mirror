@@ -1,1 +1,1 @@
-library/postgres:18.1
+gitlab/gitlab-ce:18.6.2-ce.0
