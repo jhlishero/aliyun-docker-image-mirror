@@ -1,5 +1,1 @@
-library/mysql:8.0.22
-nacos/nacos-server:v2.2.1-slim
-library/elasticsearch:7.9.3
-library/kibana:7.9.3
-library/logstash:7.17.5
+library/eclipse-temurin:17
