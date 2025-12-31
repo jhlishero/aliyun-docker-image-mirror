@@ -1,1 +1,1 @@
-redis:7.0.15-bookworm
+redis:8.4.0-bookworm
