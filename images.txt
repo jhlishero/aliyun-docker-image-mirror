@@ -1,3 +1,1 @@
-eclipse-temurin:21.0.9_10-jdk
-eclipse-temurin:17.0.17_10-jdk
-eclipse-temurin:8u472-b08-jdk
+zookeeper:3.9.4
