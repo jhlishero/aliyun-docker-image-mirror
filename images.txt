@@ -1,1 +1,1 @@
-solr:9.10.0
+eclipse-mosquitto:2.0.22
